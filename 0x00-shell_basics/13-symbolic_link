@@ -1,2 +1,2 @@
 #!/bin/bash
-ln /bin/ls "$(pwd -P)" -T _ls_
+ln /bin/ls "$(pwd -P)" -T __ls__
