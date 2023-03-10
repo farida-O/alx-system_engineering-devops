@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod betty hello --from=guillaume
+sudo chown betty hello --from=guillaume
