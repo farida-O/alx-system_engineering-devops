@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -o ":" <<<"$PATH" | (wc -l)+1
+grep -o ":" <<<"$PATH" | echo $((x=$(wc -l) ,y=1, x+y))
